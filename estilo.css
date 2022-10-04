@@ -29,7 +29,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #1CB698;
+    color: #eedb32;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -38,7 +38,7 @@ html{
 }
 .contenedor-header header nav ul li a{
     text-align: none;
-    color: #fff;
+    color: rgb(67, 243, 97);
     margin: 0 15px;
     padding: 3px;
     transition: .5s;
