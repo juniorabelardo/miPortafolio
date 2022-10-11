@@ -11,7 +11,7 @@ html{
 }
 /* MENU */
 .contenedor-header{
-    background: #1e2326;
+    background: #0c0a0a;
     position: fixed;
     width: 100%;
     top: 0;
@@ -29,7 +29,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #eedb32;
+    color: #22dbdb;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -38,14 +38,14 @@ html{
 }
 .contenedor-header header nav ul li a{
     text-align: none;
-    color: rgb(67, 243, 97);
+    color: rgb(235, 243, 237);
     margin: 0 15px;
     padding: 3px;
     transition: .5s;
     text-decoration: none;
 }
 .contenedor-header header nav ul li a:hover{
-    color: #1CB698;
+    color: #711cb6;
 }
 .nav-responsive{
     background-color: #1CB698;
@@ -67,7 +67,7 @@ html{
 }
 .inicio .contenido-banner{
     padding: 20px;
-    background-color: #1e2326;
+    background-color: #5d07c0;
     max-width: 350px;
     margin: auto;
     text-align: center;
@@ -75,7 +75,7 @@ html{
 }
 .inicio .contenido-banner img{
     margin-top: 40px;
-    border: 10px solid #1CB698;
+    border: 10px solid #011612;
     display: block;
     width: 80%;
     margin: auto;
@@ -91,10 +91,10 @@ html{
     font-weight: normal;
 }
 .inicio .contenido-banner .redes a{
-    color: #fff;
+    color: rgb(226, 211, 211);
     display: inline-block;
     text-decoration: none;
-    border: 1px solid #fff;
+    border: 1px solid rgb(7, 3, 3);
     border-radius: 100%;
     width: 42px;
     height: 42px;
@@ -104,7 +104,7 @@ html{
     transition: .3s;
 }
 .inicio .contenido-banner .redes a:hover{
-    background-color: #1CB698;
+    background-color: #ee7e3e;
 }
 .sobremi{
     background-color: #1e2326;
@@ -128,7 +128,7 @@ html{
     margin-bottom: 20px;
 }
 .sobremi .contenido-seccion p span{
-    color: #1CB698;
+    color: #3c46cc;
     font-weight: bold;
 }
 .sobremi .fila{
@@ -151,11 +151,11 @@ html{
 }
 .sobremi .fila .col ul li strong{
     display: inline-block;
-    color: #1CB698;
+    color: #32e00f;
     width: 130px;
 }
 .sobremi .fila .col ul li span{
-    background-color: #1CB698;
+    background-color: #402474;
     padding: 3px;
     font-weight: bold;
     border-radius: 5px;
@@ -191,7 +191,7 @@ html{
     margin: 20px auto;
     padding: 10px 22px;
     font-size: 16px;
-    color: #fff;
+    color: rgb(26, 228, 151);
     position: relative;
     z-index: 10;
 }
@@ -201,7 +201,7 @@ html{
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #1CB698;
+    background-color: #2f0ccc;
     z-index: -1;
     transition: 1s;
 }
@@ -211,7 +211,7 @@ html{
 /* SECCION S K I L L S */
 .skills{
     background-color: #252A2E;
-    color: #fff;
+    color: rgb(245, 245, 227);
     padding: 50px 20px;
 }
 .skills .contenido-seccion{
@@ -250,7 +250,7 @@ html{
     margin-bottom: 30px;
 }
 .skills .skill .progreso{
-    background-color: #1CB698;
+    background-color: #1106b4;
     position: absolute;
     top: 0;
     left: 0;
@@ -260,7 +260,7 @@ html{
     position: absolute;
     height: 40px;
     width: 40px;
-    background-color: #1CB698;
+    background-color: #1ff30c;
     border-radius: 50px;
     line-height: 40px;
     text-align: center;
@@ -361,7 +361,7 @@ html{
 /* SECCION CURRICULUM */
 .curriculum{
     background-color: #1e2326;
-    color: #fff;
+    color:  rgb(245, 160, 49);
     padding: 50px 20px;
 }
 .curriculum .contenido-seccion{
@@ -389,15 +389,15 @@ html{
     margin-bottom: 25px;
 }
 .curriculum .fila .izquierda{
-    border-right: 2px solid #252A2E;
+    border-right: 2px solid #f0f3f5;
 }
 .curriculum .fila .derecha{
-    border-left: 2px solid #252A2E;
+    border-left: 2px solid #f0f3f5;
 }
 .curriculum .fila .item{
     padding: 25px;
     margin-bottom: 30px;
-    background-color: #252A2E;
+    background-color: #000407;
     position: relative;
 }
 .curriculum .fila .item h4{
@@ -405,7 +405,7 @@ html{
     margin-bottom: 10px;
 }
 .curriculum .fila .item .casa{
-    color: #1CB698;
+    color: #f0f3f5;
     font-size: 22px;
     font-weight: bold;
     display: block;
