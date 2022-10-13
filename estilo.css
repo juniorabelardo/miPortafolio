@@ -11,7 +11,7 @@ html{
 }
 /* MENU */
 .contenedor-header{
-    background: #0c0a0a;
+    background: #000407;
     position: fixed;
     width: 100%;
     top: 0;
@@ -29,7 +29,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #22dbdb;
+    color: #1CB698;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -45,7 +45,7 @@ html{
     text-decoration: none;
 }
 .contenedor-header header nav ul li a:hover{
-    color: #711cb6;
+    color: rgb(245, 160, 49);
 }
 .nav-responsive{
     background-color: #1CB698;
@@ -61,13 +61,13 @@ html{
     url(img/fondo.jpg);
     background-size: cover;
     height: 100vh;
-    color: #fff;
+    color: #000407;
     display: flex;
     align-items: center;
 }
 .inicio .contenido-banner{
     padding: 20px;
-    background-color: #5d07c0;
+    background-color: #ee7e3e;
     max-width: 350px;
     margin: auto;
     text-align: center;
@@ -104,7 +104,7 @@ html{
     transition: .3s;
 }
 .inicio .contenido-banner .redes a:hover{
-    background-color: #ee7e3e;
+    background-color: #1CB698;
 }
 .sobremi{
     background-color: #1e2326;
@@ -128,7 +128,7 @@ html{
     margin-bottom: 20px;
 }
 .sobremi .contenido-seccion p span{
-    color: #3c46cc;
+    color: #1CB698;
     font-weight: bold;
 }
 .sobremi .fila{
@@ -151,11 +151,11 @@ html{
 }
 .sobremi .fila .col ul li strong{
     display: inline-block;
-    color: #32e00f;
+    color: rgb(245, 160, 49);
     width: 130px;
 }
 .sobremi .fila .col ul li span{
-    background-color: #402474;
+    background-color: #1CB698;
     padding: 3px;
     font-weight: bold;
     border-radius: 5px;
@@ -245,12 +245,12 @@ html{
 .skills .skill .barra-skill{
     height: 8px;
     width: 80%;
-    background-color: #131517;
+    background-color: #000407;
     position: relative;
     margin-bottom: 30px;
 }
 .skills .skill .progreso{
-    background-color: #1106b4;
+    background-color: #1CB698;
     position: absolute;
     top: 0;
     left: 0;
@@ -260,7 +260,7 @@ html{
     position: absolute;
     height: 40px;
     width: 40px;
-    background-color: #1ff30c;
+    background-color: #1CB698;
     border-radius: 50px;
     line-height: 40px;
     text-align: center;
