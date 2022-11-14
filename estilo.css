@@ -29,7 +29,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #1CB698;
+    color: #6c14b4;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -48,7 +48,7 @@ html{
     color: rgb(245, 160, 49);
 }
 .nav-responsive{
-    background-color: #1CB698;
+    background-color: #da2020;
     color:#fff;
     padding: 5px 10px;
     border-radius: 5px;
@@ -104,7 +104,7 @@ html{
     transition: .3s;
 }
 .inicio .contenido-banner .redes a:hover{
-    background-color: #1CB698;
+    background-color: #ac0b76;
 }
 .sobremi{
     background-color: #1e2326;
